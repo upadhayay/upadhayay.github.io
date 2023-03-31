@@ -1,31 +1,37 @@
 {"books": [{
     "id":1,
-    "title": "The Universe and Dr. Einstein",
+    "title": "Book #1 ---The Universe and Dr. Einstein",
     "year": 2005,
     "published": true
 
 },
 {
     "id":2,
-    "title": "Einstein on politics",
+    "title": "Book #2 ---- Einstein on politics",
     "year": 2013,
     "published": true
 },
 {
     "id":3,
-    "title": "Einstein versus the physical review",
+    "title": "Book #3 ---- Einstein versus the physical review",
     "year": 2005,
     "published": true
 },
 {
     "id":4,
-    "title": "Einstein on peace",
+    "title": "Book #4 --- Einstein on peace",
+    "year": 2017,
+    "published": true
+},
+  {
+    "id":6,
+    "title": "Book #6 --- Adding Book 6",
     "year": 2017,
     "published": true
 },
 {
     "id":5,
-    "title": "Einstein: The life and times",
+    "title": "Book #5 --- Einstein: The life and times",
     "year": 2022,
     "author": "Ronald Clark",
     "published": false
