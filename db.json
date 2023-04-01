@@ -15,7 +15,7 @@
     "id":3,
     "title": "Book #3 ---- Einstein versus the physical review",
     "year": 2005,
-    "published": true
+    "published": false
 },
 {
     "id":4,
@@ -28,11 +28,4 @@
     "title": "Book #6 --- Adding Book 6",
     "year": 2017,
     "published": true
-},
-{
-    "id":5,
-    "title": "Book #5 --- Einstein: The life and times",
-    "year": 2022,
-    "author": "Ronald Clark",
-    "published": false
 }]}
